@@ -1,4 +1,6 @@
 object gimenez {
+	
+	
 	// la linea que sigue es equivalente a todo lo que está debajo.
 	// le agrega al objeto: un atributo, el método para acceder, y el método para modificar.
 //	var property sueldo = 15000
